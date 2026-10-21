@@ -21,7 +21,7 @@
 
 Proje herhangi bir derleme (build) adımı veya harici paket gerektirmez; saf HTML, CSS ve JavaScript ile geliştirilmiştir ve Vercel üzerinde yayınlanmıştır.
 
-> 🔗 **Canlı demo:** _Vercel dağıtım adresini buraya ekleyin_
+> 🔗 **Canlı demo:** https://turkce-akademi.vercel.app/
 
 ---
 
